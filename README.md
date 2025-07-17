@@ -3,5 +3,6 @@ This repository contains the source code for Auto Sniper, a targeting system pow
 
 A demo can be viewed here.
 
-https://github.com/user-attachments/assets/11d5d8ba-c51d-4b72-956d-8686892db737
+
+https://github.com/user-attachments/assets/43f4f689-0617-4bdc-bae5-16d2a8122998
 
