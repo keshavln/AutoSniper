@@ -1,5 +1,4 @@
 #include <ESP32Servo.h>
-#define LED_BUILTIN 2
 Servo pan;
 Servo tilt;
 Servo trigger;
@@ -12,7 +11,6 @@ int tcurrent = 60;
   tilt.attach(19);
   tilt.write(tcurrent);
   trigger.attach(18);
-  pinMode(LED_BUILTIN, OUTPUT);
 }
 
 void loop() {
